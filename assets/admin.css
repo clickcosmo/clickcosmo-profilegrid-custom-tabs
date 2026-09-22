@@ -1,0 +1,33 @@
+.ccpgt-icon-field{position:relative}.ccpgt-icon-trigger{align-items:center;display:flex!important;gap:8px;min-height:36px}.ccpgt-icon-preview{align-items:center;display:inline-flex;font-size:18px;justify-content:center;min-width:22px}.ccpgt-icon-picker{background:#fff;border:1px solid #c3c4c7;box-shadow:0 6px 18px rgba(0,0,0,.18);box-sizing:border-box;left:0;max-width:520px;padding:12px;position:absolute;top:calc(100% + 4px);width:min(520px,90vw);z-index:10000}.ccpgt-icon-picker[hidden]{display:none}.ccpgt-icon-picker-toolbar{align-items:center;display:flex;gap:10px;margin-bottom:10px}.ccpgt-icon-search{flex:1;min-width:0}.ccpgt-icon-grid{display:grid;gap:6px;grid-template-columns:repeat(8,minmax(36px,1fr));max-height:280px;overflow:auto}.ccpgt-icon-option{align-items:center;background:#fff;border:1px solid #dcdcde;border-radius:4px;cursor:pointer;display:flex;font-size:18px;height:42px;justify-content:center}.ccpgt-icon-option:hover,.ccpgt-icon-option:focus{border-color:#0DB14B;box-shadow:0 0 0 1px #0DB14B;outline:0}.ccpgt-icon-option.is-selected{background:#f4f8f1;border-color:#0DB14B}.ccpgt-editor-row .uiminput .wp-editor-wrap,.ccpgt-editor-row .uiminput .wp-editor-container,.ccpgt-editor-row .uiminput textarea.ccpgt-editor{box-sizing:border-box;width:100%}@media(max-width:782px){.ccpgt-icon-grid{grid-template-columns:repeat(5,minmax(36px,1fr))}}
+.ccpgt-title-icon{display:inline-block;min-width:18px;margin-right:6px;text-align:center}.ccpgt-title-icon:empty{display:none}
+
+
+.ccpgt-source-fields {
+    min-height: 160px;
+}
+
+.ccpgt-wrap select[multiple] option {
+    background: #fff;
+    color: #1d2327;
+    padding: 6px 8px;
+}
+
+.ccpgt-wrap select[multiple] option:checked {
+    background: #2271b1 linear-gradient(0deg, #2271b1 0%, #2271b1 100%);
+    color: #fff;
+}
+
+.ccpgt-wrap select[multiple] option:hover {
+    background: #f0f0f1;
+    color: #1d2327;
+}
+
+.ccpgt-wrap select[multiple] option:checked:hover {
+    background: #135e96 linear-gradient(0deg, #135e96 0%, #135e96 100%);
+    color: #fff;
+}
+
+.ccpgt-clear-multiselect {
+    display: inline-block;
+    margin-top: 6px;
+}
