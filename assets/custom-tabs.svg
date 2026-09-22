@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+  <title id="title">Custom Profile Tabs</title>
+  <rect x="10" y="18" width="76" height="60" rx="8" fill="none" stroke="#6a6f73" stroke-width="6"/>
+  <path d="M10 34h76M28 18v16M50 18v16" fill="none" stroke="#6a6f73" stroke-width="6" stroke-linecap="round"/>
+  <path d="M28 52h40M28 64h28" fill="none" stroke="#7cc000" stroke-width="6" stroke-linecap="round"/>
+</svg>
